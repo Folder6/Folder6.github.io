@@ -1,14 +1,16 @@
 body {
 		background-color:#99ccff;
 	}	
-
-	.slideshow {display: none;}
 	
+.slideshow {display:none;}
+
 	h1 {
 		color:white;
 		text-align: center;
+		padding: 50px;
 	}
 	p {
 		color:white;
 		text-align: auto;
+		padding:50px;
 	}

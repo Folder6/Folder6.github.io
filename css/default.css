@@ -5,7 +5,7 @@ body {
 .slideshow {display:none;}
 
 .images {
-	text-align: center;
+	width:100%;
 }
 
 h1 {
@@ -22,10 +22,10 @@ p {
 	}
 
 .tanker {
-	width:500px;
+	width:50%;
 	border:none;
 	padding:25px;
 	margin:25px;
 	background-color:#333;
-	align-content: center;
+	
 }

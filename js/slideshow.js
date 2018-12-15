@@ -5,8 +5,8 @@ var i;
 var slides = document.getElementsByClassName("slidetext");
 var slides1 = document.getElementsByClassName("slideshow");; 
 
-$(".mySlides").css('display','none');
-$(".mySlides1").css('display','none');
+$(".slidetext").css('display','none');
+$(".slideshow").css('display','none');
 
 
 var randomnumber1;
@@ -25,8 +25,8 @@ function showSlides() {
 
    console.log(randomnumber1 + "," + randomnumber2);
 
-    $(".mySlides").css('display','none');
-    $(".mySlides1").css('display','none');
+    $(".slidetext").css('display','none');
+    $(".slideshow").css('display','none');
 
     slides[randomnumber1].style.display = "block";
 

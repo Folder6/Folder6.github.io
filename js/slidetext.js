@@ -2,13 +2,13 @@ var myIndex = 0;
 carousel();
 
 function carousel() {
-    var i;
-    var x = document.getElementsByClassName("slidetext");
-    for (i = 0; i < x.length; i++) {
-       x[i].style.display = "none";  
+    var o;
+    var a = document.getElementsByClassName("slidetext");
+    for (o = 0; i < a.length; o++) {
+       a[o].style.display = "none";  
     }
     myIndex++;
-    if (myIndex > x.length) {myIndex = 1}    
-    x[myIndex-1].style.display = "block";  
+    if (myIndex > a.length) {myIndex = 1}    
+    a[myIndex-1].style.display = "block";  
     setTimeout(carousel, 2000);
 }

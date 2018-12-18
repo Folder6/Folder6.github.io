@@ -1,0 +1,12 @@
+.dbutton {
+    padding:16px 28px;
+    margin:4px 2px;
+    border:none;
+    color:white;
+    background-color: brown;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+    display: inline-block;
+    cursor: pointer;
+}

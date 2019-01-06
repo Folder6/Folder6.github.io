@@ -2,19 +2,21 @@ body {
 		background-color:#660033;
 	}	
 
+@font-face {
+	font-family: "Times New Roman", Times, serif
+}
+
 h1 {
 	color:white;
 	text-align: center;
 	padding: 50px;
 	font-size:48px;
-	font-family: "Times New Roman", Times, serif;
 	}
 
 p {
 	color:white;
 	text-align: auto;
 	padding:50px;
-	font-family: "Times New Roman", Times, serif;
 	}
 
 .tanker {
@@ -26,11 +28,11 @@ p {
 	background-color:#0d0d0d;
 	color:white;
 	text-align:auto;
-	font-family: "Times New Roman", Times, serif;
 }
 
 .slideshow {
 	width:100%;
+	max-height: 800px;
 	display:none;
 	margin-bottom: 200px;
 }

@@ -3,7 +3,8 @@ body {
     }
 
 @font-face {
-	font-family: "Times New Roman", Times, serif;
+	font-family: Cambria;
+	src: url('https://www.folder6.github.io/fonts/Cambria.ttf')
 }
 
 h1 {

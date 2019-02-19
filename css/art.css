@@ -3,8 +3,9 @@
 	src: url('https://www.folder6.github.io/fonts/Cambria.ttf')
 }
 
-.img {
-    overflow: hidden;
+.images {
+	max-width: 200px;
+    max-height: 350px;
 }
 
 body {

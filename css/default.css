@@ -10,14 +10,20 @@ body {
 h1 {
 	color:white;
 	text-align: center;
-	padding: 50px;
-	font-size:48px;
+	padding: 20px;
+	font-size:36px;
+
+	display:inline-block;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-color: white;
+    border-width: 0px 0px 4px 0px;
 	}
 
 p {
 	color:white;
 	text-align: auto;
-	padding:50px;
+	padding:20px;
 	}
 
 .tanker {

@@ -11,8 +11,9 @@ body {
     background-color:black;
 }
 
-.himg {
-    float:center;
+img.heist {
+    display:block;
+    margin:0 auto;
 }
 
 h1 {

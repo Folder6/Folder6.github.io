@@ -14,3 +14,10 @@ body {
 .himg {
     float:center;
 }
+
+h1 {
+    color:white;
+    padding:10px;
+    background-color:black;
+    text-align: center;
+}

@@ -11,19 +11,7 @@ h1 {
 	color:white;
 	text-align: center;
 	padding: 20px;
-	font-size:36px;
-
-	margin:auto;
-	width:60%;
-
-	display:inline-block;
-    border-top-style: solid;
-    border-bottom-style: solid;
-    border-color: white;
-	border-width: 0px 0px 4px 0px;
-
-	float:center;
-	
+	font-size:36px;	
 	}
 
 p {

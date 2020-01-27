@@ -10,7 +10,7 @@ src: url('https://www.folder6.github.io/fonts/Cambria.ttf')
 img {
 	max-width: 200px;
   max-height: 350px;
-  float:center;
+  float:right;
 }
 
 h1 {

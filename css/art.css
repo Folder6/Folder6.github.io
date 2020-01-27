@@ -10,12 +10,14 @@ src: url('https://www.folder6.github.io/fonts/Cambria.ttf')
 img {
 	max-width: 200px;
   max-height: 350px;
+  float:center;
 }
 
 h1 {
     color:white;
     padding:20px;
     font-size:24px;
+    text-align: center;
 }
 
 p {

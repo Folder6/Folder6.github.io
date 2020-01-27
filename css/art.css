@@ -8,9 +8,9 @@ src: url('https://www.folder6.github.io/fonts/Cambria.ttf')
 }
 
 img {
+  float:center;
 	max-width: 200px;
   max-height: 350px;
-  float:center;
 }
 
 h1 {
@@ -33,17 +33,4 @@ header {
   text-align: center;
   font-size: 35px;
   color: white;
-}
-  
-article {
-  background-color: crimson;
-}
- 
-.articleC {
-   float: center;
-   background-color: red;
-}
- .articler {
-  float: right;
-   background-color: goldenrod;
 }

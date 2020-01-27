@@ -22,6 +22,7 @@ p {
     color:lightcoral;
     padding:10px;
     font-size:14px;
+    background-color:white;
 }
 
 header {
@@ -37,7 +38,7 @@ article {
   background-color: crimson;
 }
  
-.articlec {
+.articleC {
    float: center;
    padding: 20px;
    background-color: red;
